@@ -39,7 +39,7 @@ npx playwright test
 
 ### Run a Specific Test
 ```sh
-npx playwright test tests/login.spec.ts
+npx playwright test tests/ageVerify.spec.ts
 ```
 
 ### Run Tests in Headed Mode
