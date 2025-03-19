@@ -14,8 +14,8 @@ Ensure you have the following installed:
 
 ### 2. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/iConnect.git
-cd iConnect
+git clone https://github.com/lavanyapetchetti/pwPractice.git
+cd pwPractice
 ```
 
 ### 3. Install Dependencies
