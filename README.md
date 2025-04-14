@@ -2,6 +2,8 @@
 
 This repository contains an automated testing framework using **Playwright** with **TypeScript**. It follows the **Page Object Model (POM)** for better maintainability and scalability.
 
+It also includes integration with Jenkins for continuous integration, enabling automated test execution as part of the CI/CD pipeline.
+
 ---
 
 ## 🚀 Setup & Installation
